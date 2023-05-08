@@ -1,4 +1,11 @@
+Integrantes
+Marco Ariel Lopez Gutierrez
+Karen Fabiola Choque Escobar
+
+
 Metodologias tradicionales
-cascada espiral
+cascada 
+espiral
 
 Metodologias agiles
+1
