@@ -1,0 +1,4 @@
+Metodologias tradicionales
+cascada espiral
+
+Metodologias agiles
